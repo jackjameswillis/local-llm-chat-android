@@ -1,0 +1,24 @@
+# Android / Kotlin
+.idea/
+.gradle/
+local.properties
+*.iml
+build/
+captures/
+*.apk
+*.ap_
+*.aab
+
+# NDK / CMake
+.cxx/
+*.so
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Models (handled by LFS tracking below)
+# If you decide NOT to use LFS, uncomment next line to ignore model binaries:
+# models/*.gguf
